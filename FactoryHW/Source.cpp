@@ -72,6 +72,7 @@ public:
 	}
 };
 
+
 class CreatorB : public Creator
 {
 public:
